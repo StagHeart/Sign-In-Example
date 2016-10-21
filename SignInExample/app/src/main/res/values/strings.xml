@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SignInExample</string>
+    <string name="logo">Logo</string>
+    <string name="how_would_you_like_to_start">How would you like to start?</string>
+    <!-- for FontTextView -->
+    <string name="font">#</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="couldn_t_sign_in">Couldn\'t sign in</string>
+    <string name="password">Password</string>
+    <string name="username_and_password_are_required">Username and password are required</string>
+    <string name="sign_in">Sign In</string>
+    <string name="done">Done</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+</resources>
